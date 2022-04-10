@@ -6,4 +6,4 @@
 
 | Brand | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Acura** | **TL Type-S** | tltypes | ![Picture](./img/tltypes.webp) | Jomanire and Lazlow555 | [5MODS Link](https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555) | ✔️ |
+| **Acura** | **TL Type-S** | tltypes | ![Picture](./img/16challenger.jpg) | Jomanire and Lazlow555 | [5MODS Link](https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555) | ✔️ |
